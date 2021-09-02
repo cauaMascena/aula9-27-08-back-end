@@ -35,7 +35,7 @@ $turma = [
     [
         "nome" => "Paulo",
         "idade" => 16,
-        "nota" => 85
+        "nota" => 35
     ],
     "7" =>
     [
